@@ -10,6 +10,9 @@ Talks about machine learning in academia and industry.
 
 ### Speakers
 
+#### **Catalina Gómez**
+Ml ml ml ml ml.
+
 #### **David Camacho**
 Behavioral biometrics and context analytics: Risk based authentication reimagined.
 
