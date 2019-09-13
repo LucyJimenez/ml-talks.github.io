@@ -10,8 +10,7 @@ Talks about machine learning in academia and industry.
 
 ### Speakers
 
-* **David Camacho**
-
+#### **David Camacho**
 Behavioral biometrics and context analytics: Risk based authentication reimagined.
 
 
