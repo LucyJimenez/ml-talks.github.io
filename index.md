@@ -9,10 +9,10 @@ Talks about machine learning in academia and industry.
 
 ## Speakers
 
-### **Catalina Gómez** Uniandes
+### **Catalina Gómez** - Uniandes
 Aplicación de Machine Learning a la Visión por Computador.
 
-### **David Camacho** Cyxtera
+### **David Camacho** - Cyxtera
 Behavioral biometrics and context analytics: Risk based authentication reimagined.
 
 
