@@ -2,9 +2,11 @@
 
 Talks about machine learning in academia and industry.
 
+****
+
 ## Date & Place
 
-* 2019-09-26, 5:00 p.m.
+* **2019-09-26**, 5:00 p.m.
 * University of Los Andes - Cra. 1 #18a 12, Bogotá, Colombia.
 
 ## Speakers
@@ -21,4 +23,4 @@ Behavioral biometrics and context analytics: Risk based authentication reimagine
 Jaime Forero & Lucy Jiménez
 
 ## Support or Contact
-:envelope: lj.jimenez@uniandes.edu.co
+lj.jimenez@uniandes.edu.co
