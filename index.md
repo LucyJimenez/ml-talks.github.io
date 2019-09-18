@@ -15,6 +15,8 @@ Aplicación de Machine Learning a la Visión por Computador.
 ### **David Camacho** - Cyxtera
 Behavioral biometrics and context analytics: Risk based authentication reimagined.
 
+## Organizers
+Jaime Forero & Lucy Jiménez
 
 ## Support or Contact
 lj.jimenez@uniandes.edu.co
