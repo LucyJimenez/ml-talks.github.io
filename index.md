@@ -7,7 +7,8 @@ Talks about machine learning in academia and industry.
 ## Date & Place
 
 * 2019-09-26, 5:00 p.m.
-* University of Los Andes - Cra. 1 #18a 12, Bogotá, Colombia.
+* University of Los Andes - C-104
+* Cra. 1 #18a 12, Bogotá, Colombia.
 
 ## Speakers
 
