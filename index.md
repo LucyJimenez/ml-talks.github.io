@@ -21,7 +21,7 @@ Behavioral biometrics and context analytics: Risk-based authentication reimagine
 ****
 
 ### Attendance form
-Please fill in the following attendance form from the first ML-talks meeting: [Attendance form](https://docs.google.com/forms/d/e/1FAIpQLSeBxp3Ja2H6ZnQ8JYAVWh1jFbnZUPhHCqrOhbjx3kOpkLrdvA/viewform)
+Please fill in this [attendance form](https://docs.google.com/forms/d/e/1FAIpQLSeBxp3Ja2H6ZnQ8JYAVWh1jFbnZUPhHCqrOhbjx3kOpkLrdvA/viewform) for the first ML talks meeting.
 
 ****
 
