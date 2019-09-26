@@ -20,6 +20,10 @@ Behavioral biometrics and context analytics: Risk-based authentication reimagine
 
 ****
 
+### [Attendance form] (https://docs.google.com/forms/d/e/1FAIpQLSeBxp3Ja2H6ZnQ8JYAVWh1jFbnZUPhHCqrOhbjx3kOpkLrdvA/viewform)
+
+****
+
 ## Organizers
 Jaime Forero & Lucy Jiménez
 
