@@ -24,8 +24,8 @@ Talks about machine learning in academia and industry.
 
 ****
 
-### Registration form
-Please fill in this [registration form](https://forms.gle/Wd6pTCPM2VCv31CS7) for the second ML talks meeting.
+### Attendance form
+Please fill in this [attendance form](https://docs.google.com/forms/d/e/1FAIpQLSeBxp3Ja2H6ZnQ8JYAVWh1jFbnZUPhHCqrOhbjx3kOpkLrdvA/viewform) for the first ML talks meeting.
 
 ****
 
